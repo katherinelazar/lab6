@@ -65,7 +65,7 @@ succeeding exercises, you shouldn't feel beholden to how the
 definition is introduced in the skeleton code below. (We'll stop
 mentioning this now, and forevermore.) *)
 
-let twos = fun () -> failwith "twos not implemented" ;;
+let twos = fun () -> fun  ;;
 
 (* An infinite stream of threes, built from the ones and twos. *)
 
